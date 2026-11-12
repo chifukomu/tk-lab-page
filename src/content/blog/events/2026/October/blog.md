@@ -1,6 +1,7 @@
 ---
 title: '10月の研究室ブログ'
 date: '2026-11-11'
+lead: '関西といわきへの訪問記録'
 tag: ['blog', 'event', 'monthly']
 author_name_main: '中根 世智'
 cover: './image_6.jpg'
